@@ -17,5 +17,5 @@
   <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkraken" title="GitKraken" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" title="VSCode" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" title="Vite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="monday" title="Monday" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" width="40" height="40"/>
 </div>
