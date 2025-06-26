@@ -12,6 +12,7 @@
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" title="Vue.js" width="60" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkraken" title="GitKraken" width="40" height="40"/>  
