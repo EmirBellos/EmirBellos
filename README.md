@@ -7,5 +7,5 @@
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,java,python,vue,figma,git,vscode,tailwind,bootstrap,vite,bitbucket,postman,mysql,sqlite,ts&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,java,python,vue,figma,git,vscode,tailwind,bootstrap,vite,bitbucket,postman,mysql,sqlite,prisma,ts&perline=10" />
 </p>
